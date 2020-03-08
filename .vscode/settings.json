@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "/Users/georgehelpster/.pyenv/versions/3.7.4/bin/python",
+  "editor.formatOnSave": true,
+  "python.linting.pep8Enabled": true,
+  "python.linting.pylintPath": "/path/to/pylint",
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+  "python.linting.pylintEnabled": false,
+  "python.venvPath": "${workspaceFolder}/backend/env/bin/python3",
+  "python.linting.enabled": true
+}
